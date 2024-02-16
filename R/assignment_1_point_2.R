@@ -1,0 +1,4 @@
+#Print integers between 1 and 10 
+for (i in 1:10) {
+  print(i)
+}
